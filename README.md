@@ -2,8 +2,8 @@
 
 
 # Desenvolvido com FLASK
-
-#Funcionalidades
- ## Adicionar Item
- ## Adicionar Dieta
+# Funcionalidades
+ Adicionar Item
+ Adicionar Dieta
+ Listagem de Itens por dia
  

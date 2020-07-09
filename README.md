@@ -3,7 +3,7 @@
 
  
 # Funcionalidades
- Adicionar Item
- Adicionar Dieta
+ Adicionar Item <br>
+ Adicionar Dieta <br>
  Listagem de Itens por dia
  
